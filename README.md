@@ -1,6 +1,8 @@
-# CapturaDeVideoTelaPy
+# Captura de video tela PY
+&nbsp;
 
-## Script para captura a tela em formato de vídeo com Python
+Script para captura a tela em formato de vídeo com Python
+---
 
 &nbsp;
 > Funcionalidades
