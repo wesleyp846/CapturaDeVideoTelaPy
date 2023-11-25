@@ -4,6 +4,14 @@
 Script para captura a tela em formato de vídeo com Python
 ---
 
+
+&nbsp;
+> Pré-code
+> > virtual environment
+> > `pip install numpy pyautogui opencv-python keyboard`
+&nbsp;
+
+
 &nbsp;
 > Funcionalidades
 &nbsp;
